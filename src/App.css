@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.textColor{
+  color: darkgreen;
+}
+.white{
+  color: white;
+}
+.white:hover{
+  color: aqua;
+  text-decoration: underline;
+}
